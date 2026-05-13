@@ -41,9 +41,11 @@ En este repositorio encontrarás:
 3. `/Diagramas`: Modelos Entidad-Relación y esquemas de red.
 4. `/Source`: Código fuente de la aplicación (Java).
 
+## 🔗 Ver Contenido
+* [⬅️ Haz clic aquí para ver el contenido subido](https://github.com/AdrianFambuena/APP-Informatica-Project)
 ---
 
-## 🔗 Volver al Portfolio
+## 🔗 Volver al Porfolio
 * [⬅️ Haz clic aquí para regresar a mi Portfolio Principal](https://adrianfambuena.github.io/Porfolio-AdrianFambuena/)
 
 ---
